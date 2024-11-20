@@ -5,5 +5,6 @@ import "fmt"
 func main() {
 	a := 10
 	b := "Sam"
-	fmt.Println(a, b)
+	c := 3.14
+	fmt.Println(a, b, c)
 }
